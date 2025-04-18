@@ -1,6 +1,5 @@
 # Bandage
 Healthcare RAG system as baseline AI model for Agentic AI system. 
-Shh..  it's good for you, I promise.
 
 Dataset links 
 - https://pubmedqa.github.io/
