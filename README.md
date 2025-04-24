@@ -1,5 +1,5 @@
 # Bandage
-Healthcare RAG system as baseline AI model for Agentic AI system. 
+Healthcare RAG system with Llama3.2 3B model for Agentic AI system development
 
 Dataset links 
 - https://pubmedqa.github.io/
