@@ -9,6 +9,7 @@ Dataset links
 TODO:
 Research other HuggingFaceEmbedings (for other compatible models)
 - Current use: sentence-transformers/all-mpnet0base-v2
+- Update packages to relevant standard
 
 Goal: 
 - Create agentic AI system on HP AI Studio to provide predictive information about survival chances after certain treatments?
