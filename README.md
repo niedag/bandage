@@ -15,3 +15,4 @@ Research other HuggingFaceEmbedings (for other compatible models)
 Goal: 
 - Create agentic AI system on HP AI Studio to provide predictive information about survival chances after certain treatments?
 - Other considerations and topics: Patient care, medication, useful tool for patient or useful tool for doctors?
+- Doubly robust estimation of causal effects
