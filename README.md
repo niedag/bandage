@@ -18,3 +18,4 @@ Goal:
 - Doubly robust estimation of causal effects
 
 Important to discuss holes in research, application on certain platforms, challenges on other platforms.
+Possibly use QWEN model as alternative
