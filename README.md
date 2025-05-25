@@ -22,6 +22,6 @@ Possibly use QWEN model as alternative
 
 
 - https://www.wikijournalclub.org/wiki/GUSTO
-- -https://www.youtube.com/watch?v=Qs6JmdNoT-Y&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=3
-- -https://arxiv.org/html/2406.00853v1
-- 
+- https://www.youtube.com/watch?v=Qs6JmdNoT-Y&list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-&index=3
+- https://arxiv.org/html/2406.00853v1
+  
