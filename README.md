@@ -1,6 +1,5 @@
 # Bandage
-Healthcare RAG system with Llama3.2 3B model for Agentic AI system development
-
+Healthcare RAG system with Llama3.2 3B model
 Dataset links 
 - https://pubmedqa.github.io/
 - https://huggingface.co/datasets/qiaojin/PubMedQA
